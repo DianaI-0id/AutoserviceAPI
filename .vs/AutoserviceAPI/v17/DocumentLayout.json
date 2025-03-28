@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|c:\\users\\dlyau\\desktop\\api\\autoserviceapi\\autoserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|c:\\users\\dlyau\\desktop\\api\\autoserviceapi\\autoserviceapi\\core\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|solutionrelative:core\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|c:\\users\\dlyau\\desktop\\api\\autoserviceapi\\autoserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|c:\\users\\dlyau\\desktop\\api\\autoserviceapi\\autoserviceapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|c:\\users\\dlyau\\desktop\\api\\autoserviceapi\\autoserviceapi\\infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|solutionrelative:infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|c:\\users\\dlyau\\desktop\\api\\autoserviceapi\\autoserviceapi\\core\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|solutionrelative:core\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|c:\\users\\dlyau\\desktop\\api\\autoserviceapi\\autoserviceapi\\core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF1D107-DA43-44E4-9B96-000113213861}|AutoserviceAPI.csproj|solutionrelative:core\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T23:08:53.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Core\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Core\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:28:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:11:47.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:00:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:58:01.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Core\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Core\\Entities\\Car.cs",
+              "RelativeToolTip": "Core\\Entities\\Car.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:10:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Core\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\dlyau\\Desktop\\API\\AutoserviceAPI\\AutoserviceAPI\\Core\\Entities\\Client.cs",
+              "RelativeToolTip": "Core\\Entities\\Client.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:07:30.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 963,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
